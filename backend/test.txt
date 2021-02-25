@@ -1,0 +1,4 @@
+1.Auth test: 
+        isSignedIn: done,
+        isAdmin: done,
+2.user 
